@@ -13,8 +13,6 @@ monthly_expense.py
 quarterly-calculation.py
 subscription_listing.py
 asset_compile.py
-connections.py
-
 # Python
 __pycache__/
 *.py[cod]
