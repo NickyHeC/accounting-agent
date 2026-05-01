@@ -1,0 +1,39 @@
+# Secrets
+.env
+
+# Generated reports (company-specific data)
+expense_summary.md
+subscription_report.md
+quarter-metric.md
+budget-summary.md
+total_assets.md
+
+# Company-specific agent code (use templates/ as starting point)
+monthly_expense.py
+quarterly-calculation.py
+subscription_listing.py
+asset_compile.py
+connections.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
